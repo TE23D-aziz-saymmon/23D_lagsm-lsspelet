@@ -12,3 +12,4 @@ C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålss
 C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.pdb
 C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.genruntimeconfig.cache
 C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\ref\Slagsmålsspelet.dll
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.sourcelink.json

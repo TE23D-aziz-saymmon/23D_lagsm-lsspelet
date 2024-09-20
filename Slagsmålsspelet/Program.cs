@@ -1,5 +1,9 @@
-﻿
-
+﻿while (true)
+{
+    int card = Random.Shared.Next(10, 20);
+    Console.WriteLine(card);
+    Console.ReadLine();
+}
 
 
 Console.WriteLine("Skriv in ditt namn:");
