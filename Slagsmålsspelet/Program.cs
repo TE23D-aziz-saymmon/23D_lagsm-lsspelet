@@ -6,6 +6,7 @@
 }
 
 
+
 Console.WriteLine("Skriv in ditt namn:");
 
 string name = Console.ReadLine();
