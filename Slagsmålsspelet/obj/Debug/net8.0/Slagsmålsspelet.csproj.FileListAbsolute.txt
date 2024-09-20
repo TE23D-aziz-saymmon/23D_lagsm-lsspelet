@@ -1,0 +1,14 @@
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\bin\Debug\net8.0\Slagsmålsspelet.exe
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\bin\Debug\net8.0\Slagsmålsspelet.deps.json
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\bin\Debug\net8.0\Slagsmålsspelet.runtimeconfig.json
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\bin\Debug\net8.0\Slagsmålsspelet.dll
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\bin\Debug\net8.0\Slagsmålsspelet.pdb
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.AssemblyInfoInputs.cache
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.AssemblyInfo.cs
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.csproj.CoreCompileInputs.cache
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.dll
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\refint\Slagsmålsspelet.dll
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.pdb
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\Slagsmålsspelet.genruntimeconfig.cache
+C:\Users\saymmon.aziz\Documents\C# Programmering\23D_lagsmålsspelet\Slagsmålsspelet\obj\Debug\net8.0\ref\Slagsmålsspelet.dll
